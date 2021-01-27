@@ -1,3 +1,3 @@
 # My Personal website
 
-url: [guchen.me](guchen.me)
+url: [guchen.me](https://guchen.me/)
