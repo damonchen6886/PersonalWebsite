@@ -1,3 +1,3 @@
 # My Personal website
 
-url: [guchen.me](guchen.me)
+url: <a href="https://guchen.me/" target="_blank">guchen.me</a>
