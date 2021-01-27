@@ -365,7 +365,7 @@ ul#nav li.current a { color: #F06000; }
 #sk {
    background: #fff;
    padding-top: 60px;
-   padding-bottom: 80px;
+   padding-bottom: 100px;
    overflow: hidden;
 }
 #sk .company-pic {
@@ -426,10 +426,10 @@ ul#nav li.current a { color: #F06000; }
 	text-align: center;
 }
 .bars .skills {
-  	margin-top: 36px;
+  	margin-top: 6px;
    list-style: none;
    display:block;
-   padding:50px 15px;
+   padding:20px 15px;
    text-align:center
 }
 .bars .skills ul{
