@@ -139,11 +139,23 @@
         "level":"60%"
       },
       {
-        "name":"Ant Design",
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"Express.js",
+        "level":"60%"
+      },
+      {
+        "name":"Bootstrap",
         "level":"60%"
       },
       {
         "name":"jQuery",
+        "level":"60%"
+      },
+      {
+        "name":"Ant Design",
         "level":"60%"
       },
       {
@@ -197,7 +209,7 @@
         "description": 
         ["Developed a web ERP application to calculating ratios, manipulate CRUD with GAPP accounting principle applied",
         "Designed and built schema in MySQL on AWS RDS, applied stored procedures and triggers to facilitate order manipulation",
-        "Built the web interface using React.js, structured the diagram and chart using google chart library"
+        "Built the web interface using Bootstrap, jQuery.js, structured the diagram and chart using google chart library"
         ],
         "image":"InventoryManagement/inventoryManagement.jpg",
         "url":"https://github.com/damonchen6886/Inventory_Management_System"
