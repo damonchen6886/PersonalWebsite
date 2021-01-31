@@ -209,7 +209,7 @@
         "description": 
         ["Developed a web ERP application to calculating ratios, manipulate CRUD with GAPP accounting principle applied",
         "Designed and built schema in MySQL on AWS RDS, applied stored procedures and triggers to facilitate order manipulation",
-        "Built the web interface using Bootstrap, jQuery.js, structured the diagram and chart using google chart library"
+        "Created RESTful API using Servlet in Java, used Hibernate for ORM, structured web interface using Bootstrap and jQuery"
         ],
         "image":"InventoryManagement/inventoryManagement.jpg",
         "url":"https://github.com/damonchen6886/Inventory_Management_System"
@@ -220,9 +220,8 @@
         "category":"– A SPA web Application",
         "description": 
         ["Developed a single page web application for individuals to read news along with peer commentators",
-        "Used Phoenix and React.js to build a Single Page web application with Redux and React-Router using Elixir",
-        "Structured the relational database (Postgres) to capture and store user information and user data",
-        "Implemented server to server external API connection logic to retrieve news from a third party"
+        "Built the web interface using React.js and Phoenix, implemented SPA with Redux and React-Router",
+        "Structured the relational database (Postgres), implemented server to server external API connection to third-party libraries"
         ],
         "image":"newsbee/newsbee.png",
         "url":"https://github.com/damonchen6886/NewsForum"
@@ -248,8 +247,8 @@
         "Created RESTful API with Java, structured web interface using ReactJS framework",
         "Implemented Hibernate for ORM with the MySQL database and deployed on AWS RDS"
         ],
-        "image":"chat/chat.png",
-        "url":"https://github.com/damonchen6886/Sleep-Forest"
+        "image":"chat/chat2.png",
+        "url":"https://github.com/damonchen6886/Diglett_chat_App"
       },
 
       {
@@ -257,7 +256,7 @@
         "category":"– A Sleep Management Android Application",
         "description": 
         ["Built an android Sleep management application in java and deployed on Google Play",
-        "Utilized android sensor to capture data from end-users, stored data using android Room database",
+        "Utilized android sensor to capture data from end-users, stored data using android SQLite database",
         "Implemented reward system, updated user interface to improve user engagement"
         ],
         "image":"sleepForest/sleepForest.png",
