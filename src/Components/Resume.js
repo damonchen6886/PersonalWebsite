@@ -8,7 +8,7 @@ class Resume extends Component {
 
     if(this.props.data){
       var education = this.props.data.education.map(function(education){
-        return <div key={education.school}>  <h3>{education.school}⠀⠀<img className="company-pic"  src={"images/"+education.image} alt="" /></h3>
+        return <div key={education.school}>  <h3>{education.school}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img className="company-pic"  src={"images/"+education.image} alt="" /></h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <h6>{education.description}</h6><p>{education.Coursework}</p> {<p><b>{education.awards} </b>{education.honor}</p>}</div>
       })

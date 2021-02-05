@@ -9,7 +9,7 @@ class Experience extends Component {
     if(this.props.data){
       
       var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}  ⠀⠀<img className="company-pic"  src={"images/"+work.image} alt="" />  ⠀⠀ </h3>
+        return <div key={work.company}><h3>{work.company}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img className="company-pic"  src={"images/"+work.image} alt="" /></h3>
            
             <p className="info">{work.title}      <span>&bull;</span> <em className="date">{work.years}</em></p>
             {work.description.map(item=>(
