@@ -75,17 +75,6 @@
                 
       },
       {
-        "company":"Brown Brothers Harriman & Co.",
-        "title":"Reconciliation Analyst Coop",
-        "years":"Jul 2017 - Dec 2017",
-        "image":"bbh-logo.jpg",
-        "description":
-        [" Ensured all daily financial reports are delivered and automated data feeds are properly posted to all reconciliation platform \n",
-          "Provided detailed commentary to facilitate ledger breaks clearances and escalate to responsible party for research\n",
-          "Communicated with various internal and external clients and responded to inquiries in a timely manner"
-        ]
-      },
-      {
         "company":"State Street Corporation",
         "title":"Data Analyst Intern",
         "years":"Jun 2016 - Dec 2016",
@@ -94,6 +83,17 @@
         [" Participated in client data migration projects and improved the quality and accuracy of Client reference data by 20% \n",
           "Improved reports procedures and saved five hours of manual work every week \n",
           "Processed an average of ten requests every day, created and corrected data elements on the Salesforce platform"
+        ]
+      },
+      {
+        "company":"Brown Brothers Harriman & Co.",
+        "title":"Reconciliation Analyst Coop",
+        "years":"Jul 2017 - Dec 2017",
+        "image":"bbh-logo.jpg",
+        "description":
+        [" Ensured all daily financial reports are delivered and automated data feeds are properly posted to all reconciliation platform \n",
+          "Provided detailed commentary to facilitate ledger breaks clearances and escalate to responsible party for research\n",
+          "Communicated with various internal and external clients and responded to inquiries in a timely manner"
         ]
       }
     ],
