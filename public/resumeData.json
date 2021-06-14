@@ -60,6 +60,19 @@
     ],
     "work":[
       {
+        "company":"Michigan State University RDP Lab",
+        "title":"Software Engineer",
+        "years":"Apr 2020 - , remote",
+        "image":"msu.jpg",
+        "description":
+        [
+        "Participate in developing and maintaining scientific analysis tool and database for scientists to analyze microbial Genomes \n ",
+        "Implement new features in backend java app under the guidance of a group of scientists, improved front end web UI\n",
+        "Maintain the project CI/CD, ensured the latest version of software is always reflected on docker hub \n"
+      ]
+                
+      },
+      {
         "company":"Philips North America",
         "title":"Software Engineer Coop ",
         "years":"Jan 2020 - Aug 2020, Cambridge, MA",
@@ -67,9 +80,10 @@
         "description":
         [
         "Participated in cloud-based framework implementation for the project under patient Monitoring that enables predictive analytics for multiple connected healthcare application \n ",
-        "Implemented new features in C# on-prem application, enhanced interactive cloud application using Knockout.js\n",
+        "Enhanced Backend Java and C# application under Spring framework, .NET Core, improved front-end app under jQuery\n",
         "Analyzed and fixed 20 security vulnerabilities for both on-prem application and cloud application\n",
         "Developed and implemented IAM onboarding scripts in python for test team",
+        "Maintained services using HTTP, REST, JSON and XML and performed unit test on services end to end ensuring system working healthily with logging monitor",
         "Composed and improved various documents including feature spec, deployments, and compliance"
       ]
                 
