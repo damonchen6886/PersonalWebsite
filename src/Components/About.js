@@ -7,6 +7,7 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
+      var intro = this.props.data.intro;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
@@ -15,6 +16,10 @@ class About extends Component {
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
       var nameUnderImage = this.props.data.nameUnderImage;
+      var skills = this.props.data.skills.map(skill=>
+        <li>{skill}</li>
+      );
+      
     }
 
     return (
@@ -26,8 +31,9 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
-
+            <p>{intro}</p>
             <p>{bio}</p>
+            <p>{skills}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
